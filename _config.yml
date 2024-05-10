@@ -1,14 +1,15 @@
-title: Kushal Navghare  # You can add your name here
+title: Kushal Navghare # your name (or website title) here
+logo: "img/profile.png" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Experienced Data Scientist wit a proven track record of leveraging advanced analytics and machine learning to solve complex business problems. 
+  <br><br>
+  Master's degree in Data Science from DePaul University.
+  <br><br>
+  <a href="https://www.linkedin.com/in/kushal-navghare/">View my LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
-logo: img/profile.png # Use a relative path to logo image 
-
-description: Analytics Professional | Data Scientist | Machine Learning Engineer # Fix hyphenation 
-
-show_downloads: true # Fix spelling
-
-theme: jekyll-theme-minimal 
-
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
-
-email: kushal.nav@gmail.com # Allow visitors to contact you
+colors:
+  crimson: '#900C3F'
