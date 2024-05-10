@@ -2,14 +2,13 @@ title: Kushal Navghare # your name (or website title) here
 logo: "img/profile.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Experienced Data Scientist wit a proven track record of leveraging advanced analytics and machine learning to solve complex business problems. 
+  Experienced Data Scientist with a proven track record of leveraging advanced analytics and machine learning to solve complex business problems. 
   <br><br>
   Master's degree in Data Science from DePaul University.
   <br><br>
   <a href="https://www.linkedin.com/in/kushal-navghare/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 colors:
   crimson: '#900C3F'
