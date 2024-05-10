@@ -1,0 +1,14 @@
+title: Kushal Navghare  # You can add your name here
+
+logo: 1.png # Use a relative path to logo image 
+
+description: Analytics Professional | Data Scientist | Machine Learning Engineer # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: kushal.nav@gmail.com # Allow visitors to contact you
