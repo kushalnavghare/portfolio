@@ -7,5 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Master's degree in Data Science from DePaul University.
   <br><br>
 
+theme: jekyll-theme-midnight
+
 colors:
   crimson: '#900C3F'
