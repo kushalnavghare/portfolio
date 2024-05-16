@@ -10,3 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
 theme: jekyll-theme-minimal
 colors:
   crimson: '#900C3F'
+
+footer: false
