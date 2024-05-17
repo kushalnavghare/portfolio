@@ -9,5 +9,7 @@
 
 ### Movie Review Sentiment Analysis
 
+Binary sentiment classification of 50K IMDB Movie reviews using machine learning model. Compared multiple embedding techniques and ML models to get the best performance.
 
+[![](https://img.shields.io/badge/python-gray?logo=python&logoColor=white)](#)
 ---
