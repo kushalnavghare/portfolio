@@ -11,5 +11,7 @@
 
 Binary sentiment classification of 50K IMDB Movie reviews using machine learning model. Compared multiple embedding techniques and ML models to get the best performance.
 
-[![](https://img.shields.io/badge/python-gray?logo=python&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-white?logo=python)](#) [![](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=red)](#) [![](https://img.shields.io/badge/scikit%20learn-white?logo=scikit-learn&logoColor=red
+)](#) 
+
 ---
