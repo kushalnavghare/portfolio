@@ -17,3 +17,12 @@ Binary sentiment classification of 50K IMDB Movie reviews using machine learning
 
 ---
 
+### Chicago Crimes Prediction - Time Series Analysis
+
+Forecasting crimes in Chicago by developing time series forecasting models, leveraging MA(1), ARIMA, and SARIMA methods to capture both short-term and seasonal patterns. Utilized time series decomposition for data analysis and selected models based on autocorrelation and seasonality.
+
+[![](https://img.shields.io/badge/RStudio-white?logo=rstudio)](#) [![](https://img.shields.io/badge/R-white?logo=R&logoColor=blue)](#) [![](https://img.shields.io/badge/dplyr-white?logo=dplyr&logoColor=blue)](#) [![](https://img.shields.io/badge/time%20series-white?logo=time%20series&logoColor=blue)](#)
+
+[View on Github](https://github.com/kushalnavghare/Forecasting-Chicago-Crimes/blob/main/ForecastingChicagoCrimes.md)
+
+---
