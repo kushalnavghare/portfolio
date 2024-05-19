@@ -1,5 +1,7 @@
 ## Executive Summary
-  Accomplished Data Scientist skilled in advanced analytics and machine learning to solve complex business problems. Experienced in developing scalable solutions that drive growth and efficiency. Passionate about continuous learning and applying cutting-edge technologies.
+
+Accomplished Data Scientist skilled in advanced analytics and machine learning to solve complex business problems. Experienced in developing scalable solutions that drive growth and efficiency. Passionate about continuous learning and applying cutting-edge technologies.
+
 ---
 
 ## Skillset
