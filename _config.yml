@@ -1,7 +1,6 @@
 title: Kushal Navghare # your name (or website title) here
 logo: "img/profile.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-Master's degree in Data Science from DePaul University.
+description: Master's degree in Data Science from DePaul University.
 
 theme: jekyll-theme-minimal
 colors:
