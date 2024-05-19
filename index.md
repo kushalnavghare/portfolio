@@ -19,10 +19,23 @@ Binary sentiment classification of 50K IMDB Movie reviews using machine learning
 
 ### Chicago Crimes Prediction - Time Series Analysis
 
-Forecasting crimes in Chicago by developing time series forecasting models, leveraging MA(1), ARIMA, and SARIMA methods to capture both short-term and seasonal patterns. Utilized time series decomposition for data analysis and selected models based on autocorrelation and seasonality.
+Forecasting crimes in Chicago by developing time series forecasting models, leveraging MA, ARIMA, and SARIMA methods to capture both short-term and seasonal patterns. Utilized time series decomposition for data analysis and selected models based on autocorrelation and seasonality.
 
 [![](https://img.shields.io/badge/RStudio-white?logo=rstudio)](#) [![](https://img.shields.io/badge/R-white?logo=R&logoColor=blue)](#) [![](https://img.shields.io/badge/dplyr-white?logo=dplyr&logoColor=blue)](#) [![](https://img.shields.io/badge/time%20series-white?logo=time%20series&logoColor=blue)](#)
 
 [View on Github](https://github.com/kushalnavghare/Forecasting-Chicago-Crimes/blob/main/ForecastingChicagoCrimes.md)
 
 ---
+
+## Relevant Experience
+
+**Research Assistant/Geospatial Data Analyst @ DePaul University (_June 2023 - Present_)**
+- Developed a robust staypoint algorithm, reducing analysis time by 40% and enhancing accuracy in discerning movement versus stationary periods.
+- Applied interpolation techniques to enhance GPS data correction accuracy by 82% and reduce correction time by 38%.
+- Discovered outliers with 74% accuracy using random forest classifier for automated outlier detection, streamlining data analysis and reducing the need for manual tagging.
+
+**Consultant-Data Science @ Allstate (_April 2020 - August 2022_)**
+- Mitigated Actual Time of Arrival (ATA) by 9 minutes with XGBoost classification while maintaining cost-to-rescue, by integrating it with real-time system applications in production
+- Achieved annual cost savings of $100K by engineering a sentiment classifier using BERT, replacing an existing text analytics application with 95% precision at 80% recall classifier
+- Improved Net Promoter Score (NPS score) by 7% using a real-time outlier prediction model to predict potential detractors and identifying possible root cause on bad customer experience
+- Utilized geospatial analysis techniques, such as Uber H3's hexagonal spatial indexing and clustering, to optimize geographical boundaries of roadside service providers.
