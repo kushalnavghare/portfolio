@@ -1,11 +1,13 @@
 ## Skillset
 
 [![](https://img.shields.io/badge/Python-white?logo=Python&logoColor=blue)](#) [![](https://img.shields.io/badge/R-white?logo=R&logoColor=blue)](#) [![](https://img.shields.io/badge/RStudio-white?logo=Rstudio&logoColor=blue)](#) [![](https://img.shields.io/badge/sas-white?logo=sas)](#) [![](https://img.shields.io/badge/scala-white?logo=scala&logoColor=red)](#) [![](https://img.shields.io/badge/UNIX-white?logo=ubuntu&logoColor=red)](#) [![](https://img.shields.io/badge/SQL-white?logo=oracle&logoColor=red)](#) [![](https://img.shields.io/badge/MySQL-white?logo=mysql)](#) [![](https://img.shields.io/badge/Amazon_S3-white?logo=amazon%20s3)](#) [![](https://img.shields.io/badge/Hadoop-white?logo=apache%20hadoop)](#) [![](https://img.shields.io/badge/PySpark-white?logo=apache%20spark)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Hive-white?logo=apache%20hive)](#) [![](https://img.shields.io/badge/Apache_Pig-white?logo=apache%20pig)](#) [![](https://img.shields.io/badge/REST_API-white)](#) [![](https://img.shields.io/badge/Flask-white?logo=flask)](#) [![](https://img.shields.io/badge/django-white?logo=django&logoColor=%230f3923)](#) [![](https://img.shields.io/badge/FastAPI-white?logo=fastapi)](#) [![](https://img.shields.io/badge/GitHub-white?logo=Github&logoColor=black)](#) [![](https://img.shields.io/badge/Aamzon_Web_Services_(AWS)-white?logo=amazon)](#) [![](https://img.shields.io/badge/Microsoft_Azure-white?logo=microsoft%20azure&logoColor=%231167b1)](#) [![](https://img.shields.io/badge/Google_Cloud_Platform_(GCP)-white?logo=google%20cloud)](#) [![](https://img.shields.io/badge/docker-white?logo=docker)](#) [![](https://img.shields.io/badge/kubernetes-white?logo=kubernetes)](#) [![](https://img.shields.io/badge/Microsoft_Excel-white?logo=microsoft%20excel&logoColor=%231D6F42)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) [![](https://img.shields.io/badge/Power_BI-white?logo=Power%20bi)](#) [![](https://img.shields.io/badge/JIRA-white?logo=JIRA&logoColor=%230052cc)](#) [![](https://img.shields.io/badge/confluence-white?logo=confluence&logoColor=%230146b3)](#) 
+
 <!---* Programming: Python, R, SAS, Scala, UNIX (Bash)
 * Data warehousing: SQL, MySQL, S3, HDFS, PySpark, MongoDB, Hive, Pig
 * Developement: REST API, Flask, Django, FastAPI, GitHub, Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Docker, Kubernetes
 * Business Intelligence: MS Excel, Tableau, Power BI
 -->
+
 ---
 ## Projects
 ---
