@@ -60,3 +60,11 @@ Analysis of Chicago's top restaurants to see what are root cause of inspection f
 - Conducted regression analysis and constructed predictive models to monitor assistance center metrics, interpreting model results using SHAP values.
 - Built PySpark ETL data pipeline to optimize data computation and establish a reusable feature store for modeling.
 - Led multiple proof-of-concept initiatives, leveraging innovative machine learning techniques and rigorous data analysis to address critical business challenges within cross-functional teams in an agile environment.
+
+---
+
+## Certification
+
+- [Developing AI Applications with Python and Flask](https://www.coursera.org/account/accomplishments/records/7S5K5LPXT6B2)
+- [Deep Learning Fundamentals with Keras](https://courses.edx.org/certificates/c9c7e51433a04c01966af1c78fb6dfc9)
+- [Data Structures and Algorithms](https://www.linkedin.com/learning/certificates/289d4ec2848d78dd9633ba582e896e83774fa53caaedb206fe6a56ec3331763a?trk=backfilled_certificate)
