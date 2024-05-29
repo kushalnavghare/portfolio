@@ -37,7 +37,7 @@ Analysis of Chicago's top restaurants to see what are root cause of inspection f
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GeoPandas-white?logo=geopandas)](#) [![](https://img.shields.io/badge/Folium-white?logo=folium)](#) [![](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=%235293BB)](#) 
 
-[View on GitHub](https://github.com/kushalnavghare/chicago-food-inspection/blob/gh-pages/code/03_final_analysis.ipynb)
+[View on GitHub](https://github.com/kushalnavghare/chicago-food-inspection/blob/gh-pages/code/03_final_analysis.ipynb) | 
 [Live Page](https://kushalnavghare.github.io/chicago-food-inspection/)
 
 ---
