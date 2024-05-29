@@ -35,9 +35,12 @@ Forecasting crimes in Chicago by developing time series forecasting models, leve
 
 Analysis of Chicago's top restaurants to see what are root cause of inspection failure and identify safe places to eat out. Created live page to see the neighborhoods within chicago which gives food inspection failure rate and keyword analysis of inspection comments by the officers.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GeoPandas-white?logo=geopandas)](#) [![](https://img.shields.io/badge/Folium-white?logo=folium)](#) [![](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=%235293BB)](#) [![]()]
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/GeoPandas-white?logo=geopandas)](#) [![](https://img.shields.io/badge/Folium-white?logo=folium)](#) [![](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=%235293BB)](#) 
 
-[View on GitHub](https://github.com/kushalnavghare/chicago-food-inspection/blob/gh-pages/code/03_final_analysis.ipynb) | [Live Page](https://kushalnavghare.github.io/chicago-food-inspection/)
+[View on GitHub](https://github.com/kushalnavghare/chicago-food-inspection/blob/gh-pages/code/03_final_analysis.ipynb)
+[Live Page](https://kushalnavghare.github.io/chicago-food-inspection/)
+
+---
 
 ## Relevant Experience
 
@@ -51,3 +54,9 @@ Analysis of Chicago's top restaurants to see what are root cause of inspection f
 - Achieved annual cost savings of $100K by engineering a sentiment classifier using BERT, replacing an existing text analytics application with 95% precision at 80% recall classifier
 - Improved Net Promoter Score (NPS score) by 7% using a real-time outlier prediction model to predict potential detractors and identifying possible root cause on bad customer experience
 - Utilized geospatial analysis techniques, such as Uber H3's hexagonal spatial indexing and clustering, to optimize geographical boundaries of roadside service providers.
+
+**Associate Consultant @ Allstate (_March 2018 - March 2020_)**
+- Designed and implemented automated processes for extracting, transforming, and manipulating data in alignment with specific Tableau business report requirements using SQL, R, and Python.
+- Conducted regression analysis and constructed predictive models to monitor assistance center metrics, interpreting model results using SHAP values.
+- Built PySpark ETL data pipeline to optimize data computation and establish a reusable feature store for modeling.
+- Led multiple proof-of-concept initiatives, leveraging innovative machine learning techniques and rigorous data analysis to address critical business challenges within cross-functional teams in an agile environment.
