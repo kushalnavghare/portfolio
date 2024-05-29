@@ -4,15 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<!--     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png"> -->
-<!--     <link rel="icon" type="image/png" sizes="32x32" href="https://www.colorcombos.com/colors/660033"> -->
     <title>Kushal's Portfolio</title>
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <style>
+      body {
+        text-align: justify;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -43,9 +46,7 @@
         {% endif %}
       </header>
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
       <footer>
         <!-- Remove the maintenance message -->
@@ -66,5 +67,13 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        const links = document.querySelectorAll('a');
+        links.forEach(link => {
+          link.setAttribute('target', '_blank');
+        });
+      });
+    </script>
   </body>
 </html>
