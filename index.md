@@ -13,20 +13,19 @@ Accomplished Data Scientist skilled in advanced analytics and machine learning t
 ## Relevant Experience
 
 **Research Assistant/Geospatial Data Analyst @ DePaul University (_June 2023 - Present_)**
-- Developed a robust staypoint algorithm, reducing analysis time by 40% and enhancing accuracy in discerning movement versus stationary periods.
-- Applied interpolation techniques to enhance GPS data correction accuracy by 82% and reduce correction time by 38%.
-- Discovered outliers with 74% accuracy using random forest classifier for automated outlier detection, streamlining data analysis and reducing the need for manual tagging.
+- Improved performance by identifying potential claims using supervised machine learning techniques of Gradient Boosting (CatBoost, XGBoost) and Decision Tree / RF.
+- Designed ETL process dealing with different data sources and loaded data into target data sources by performing transformations using Python libraries.
+
 
 **Consultant-Data Science @ Allstate (_April 2020 - August 2022_)**
-- Mitigated Actual Time of Arrival (ATA) by 9 minutes with XGBoost classification while maintaining cost-to-rescue, by integrating it with real-time system applications in production
-- Achieved annual cost savings of $100K by engineering a sentiment classifier using BERT, replacing an existing text analytics application with 95% precision at 80% recall classifier
-- Improved Net Promoter Score (NPS score) by 7% using a real-time outlier prediction model to predict potential detractors and identifying possible root cause on bad customer experience
-- Utilized geospatial analysis techniques, such as Uber H3's hexagonal spatial indexing and clustering, to optimize geographical boundaries of roadside service providers.
+- Experienced in Data collection, Building pipelines, Data analytics, EDA , building Machine learning & Deep learning( Natural Language processing & Computer Vision ) models, model deployment, Model monitoring- evaluation & Model deployments. 
+- Built predictive models and data-driven analyses to support strategic business decisions.
+- Experienced in designing and implementing end-to-end supervised & unsupervised machine learning models using Python.
+
 
 **Associate Consultant @ Allstate (_March 2018 - March 2020_)**
 - Designed and implemented automated processes for extracting, transforming, and manipulating data in alignment with specific Tableau business report requirements using SQL, R, and Python.
 - Conducted regression analysis and constructed predictive models to monitor assistance center metrics, interpreting model results using SHAP values.
-- Built PySpark ETL data pipeline to optimize data computation and establish a reusable feature store for modeling.
 - Led multiple proof-of-concept initiatives, leveraging innovative machine learning techniques and rigorous data analysis to address critical business challenges within cross-functional teams in an agile environment.
 
 ---
