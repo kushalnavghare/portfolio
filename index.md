@@ -12,7 +12,7 @@ Accomplished Data Scientist skilled in advanced analytics and machine learning t
 
 ## Relevant Experience
 
-**Research, Data Scientist @ DePaul University (_June 2023 - Present_)**
+**Research, Data Scientist @ DePaul University (_June 2023 - Jan 2024_)**
 - Led the design and implementation of the entire data science project life cycle of Anomaly Detection, involving data ETL, model designing, model development and validation, support & impact analysis, deployment and monitoring.
 - Deployed a Decision Tree model in production environment to identify anomalies in large-scale claims data with 82% accuracy, improving the detection of fraudulent claims.
 - Conducted A/B tests and statistical analysis to validate the effectiveness of machine learning models, leading to a 13% optimization in claims processing accuracy.
