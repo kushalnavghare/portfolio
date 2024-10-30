@@ -12,10 +12,10 @@ Accomplished Data Scientist skilled in advanced analytics and machine learning t
 
 ## Relevant Experience
 
-**Research Assistant/Geospatial Data Analyst @ DePaul University (_June 2023 - Present_)**
-- Improved performance by identifying potential claims using supervised machine learning techniques of Gradient Boosting (CatBoost, XGBoost) and Decision Tree / RF.
-- Designed ETL process dealing with different data sources and loaded data into target data sources by performing transformations using Python libraries.
-
+**Research, Data Scientist @ DePaul University (_June 2023 - Present_)**
+- Led the design and implementation of the entire data science project life cycle of Anomaly Detection, involving data ETL, model designing, model development and validation, support & impact analysis, deployment and monitoring.
+- Deployed a Decision Tree model in production environment to identify anomalies in large-scale claims data with 82% accuracy, improving the detection of fraudulent claims.
+- Conducted A/B tests and statistical analysis to validate the effectiveness of machine learning models, leading to a 13% optimization in claims processing accuracy.
 
 **Consultant-Data Science @ Allstate (_April 2020 - August 2022_)**
 - Experienced in Data collection, Building pipelines, Data analytics, EDA , building Machine learning & Deep learning( Natural Language processing & Computer Vision ) models, model deployment, Model monitoring- evaluation & Model deployments. 
